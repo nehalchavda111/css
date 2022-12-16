@@ -1,0 +1,27 @@
+.font_family{
+    /* font-family: sans-serif; */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color: aqua;
+}
+.font_size_px{font-size: 50px;color: blue;}
+.size_em{font-size: 5em; color: blue;}
+.size_rem{font-size: 2rem; color: blue;}
+.size_per{ font-size: 300%;color: blue;}
+.size_inc{ font-size: 1in;color: blue;}
+.size_cm{ font-size: 1cm;color: blue;}
+.font_style
+{ 
+    font-style:oblique 40deg ;
+    /* font-style: italic; */
+    color: teal;
+}
+.font_variant{
+    font-variant: small-caps;
+    color: crimson;
+}
+.font_weight{ font-weight: 500;}
+.font_height{
+     line-height:40px;
+     color: brown;
+     font-size: 20px;
+    }

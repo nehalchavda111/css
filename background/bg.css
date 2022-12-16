@@ -1,0 +1,60 @@
+.bg_attechment
+{
+    background-image: url('D:/vs code/images/c2.jfif');
+    height: 500px;
+    /*background-repeat: no-repeat;*/
+    border: 5px dotted blue;
+    background-attachment: fixed;
+}
+.bg_clip
+{
+    border: 2px dashed palegreen;
+    background-image: url('D:/vs code/images/c2.jfif');
+    height: 500px;
+    background-clip: border-box;
+    background-clip: content-box;
+    padding: 20px;
+}
+.bg_image
+{
+    background-image: url('D:/vs code/images/c2.jfif');
+    border: 2px solid red;
+   height: 500px; 
+}
+.bg_origin
+{
+    background-image:url('D:/vs code/images/c2.jfif');
+    border: 2px solid black;
+    height: 500px;
+    background-origin: border-box; 
+    background-origin: content-box;
+    padding: 20px;
+
+}
+.bg_possition
+{
+    background-image:url('D:/vs code/images/c2.jfif');
+    border: 2px solid crimson;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: 20% 20%;
+
+}
+.bg_repeat
+{
+    background-image:url('D:/vs code/images/c2.jfif');
+    border: 5px dashed rgba(15, 9, 10, 0.623);
+    height: 500px;
+    background-repeat: no-repeat;
+    
+}
+.bg_size
+{
+    background-image:url('D:/vs code/images/c2.jfif');
+    border: 5px dashed yellow;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: 20% 20%;
+    background-size: cover;
+
+}

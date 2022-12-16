@@ -1,0 +1,18 @@
+.disp_blk{
+    display: block;
+}
+.disp_inline{
+    display: inline;
+    margin: 20px;
+    padding: 20px;
+    width: 600px;
+    border: 1px solid;
+}
+.disp_inline_blk{
+    display: inline-block;
+    margin: 20px;
+    padding: 20px;
+    width: 600px;
+    border: 1px solid;
+    
+}
